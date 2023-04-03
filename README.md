@@ -1,5 +1,6 @@
 # Assignment-11-of-C-Language
 Here the complete solution of assignment 11 is provided
+
 Write functions for following.
 1.	First digit                        fd(23145)=2     fd(314)=3
 2.	Second digit                    sd(23145)=3     sd(314)=1
